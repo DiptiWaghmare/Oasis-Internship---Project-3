@@ -1,4 +1,4 @@
-# Oasis-Internship---Project-3
+# Oasis-Internship---Task 2
 
 Sales prediction means predicting how much of a product people will buy based on factors
 such as the amount you spend to advertise your product, the segment of people you
